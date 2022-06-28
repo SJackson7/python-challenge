@@ -1,0 +1,11 @@
+
+
+Financial Analysis 
+------------------------------------------
+Total Months...............86
+
+Net Revenue................$21,475,215.00
+Average Change.............$-8,311.11
+
+Greatest Profit Increase...Aug-16 in the amount of $1,862,002.00
+Greatest Profit Decrase....Feb-14 in the amount of $-1,825,558.00
