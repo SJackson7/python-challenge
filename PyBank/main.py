@@ -45,13 +45,13 @@ for m in range(len(monthlyChanges)):
 
 # start generating the output
 output = (
-    f"\n\nFinancial Analysis \n"
-    f"------------------------------------------\n"
+    f"\n\nFinancial Analysis \n\n"
+    f"------------------------------------------\n\n"
     f"Total Months...............{totalMonths}\n\n"
     f"Net Revenue................${revenue:,.2f}\n"
     f"Average Change.............${averageChange:,.2f}\n\n"
     f"Greatest Profit Increase...{highProf[0]} in the amount of ${highProf[1]:,.2f}\n"
-    f"Greatest Profit Decrase....{highLoss[0]} in the amount of ${highLoss[1]:,.2f}\n"
+    f"Greatest Profit Decrase....{highLoss[0]} in the amount of ${highLoss[1]:,.2f}\n\n\n"
     )
 # print the output to console
 print(output)
