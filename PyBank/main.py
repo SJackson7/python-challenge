@@ -1,12 +1,13 @@
 import os
 import csv
 
+# load the dataset file
 fileLoad = os.path.join("resources", "budget_data.csv")
 
 # file to hold the output of analysis
 analysisFile = os.path.join("analysis", "budget_analysis.txt")
 
-#initialize variables
+# initialize variables
 totalMonths = 0     # total months
 revenue = 0         # total profit/loss
 monthlyChanges = [] # list of monthly changes
