@@ -7,7 +7,7 @@ Total Votes                    369,711
 
 ----------------------------------------------------------
 
-Canditate Name              Pct. Votes     Number of Votes
+Candidate Name              Pct. Votes     Number of Votes
 
 Charles Casper Stockham        23.049%              85,213
 Diana DeGette                  73.812%             272,892
