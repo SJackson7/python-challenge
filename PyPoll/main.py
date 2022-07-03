@@ -28,7 +28,7 @@ with open(fileLoad) as electData:   # read the csv file
             candidateVotes[row[2]] += 1     # if yes, then increment the vote count by 1
 
 voteResults = ""                                                # initialize results variable string
-vrHeader = ["Canditate Name", "Pct. Votes", "Number of Votes"]  # create results header row
+vrHeader = ["Candidate Name", "Pct. Votes", "Number of Votes"]  # create results header row
 
 for candidateName in candidateVotes:
     votes = candidateVotes.get(candidateName)       # get total votes by candidate
