@@ -51,7 +51,7 @@ output = (
     f"Net Revenue................${revenue:,.2f}\n"
     f"Average Change.............${averageChange:,.2f}\n\n"
     f"Greatest Profit Increase...{highProf[0]} in the amount of ${highProf[1]:,.2f}\n"
-    f"Greatest Profit Decrase....{highLoss[0]} in the amount of ${highLoss[1]:,.2f}\n\n\n"
+    f"Greatest Profit Decrease....{highLoss[0]} in the amount of ${highLoss[1]:,.2f}\n\n\n"
     )
 # print the output to console
 print(output)
